@@ -1,0 +1,16 @@
+/* App.css */
+.countdown-container {
+  text-align: center;
+  margin: 50px;
+}
+
+.timer-display {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.timer-controls {
+  margin-top: 20px;
+}
+
+/* Add more styling as needed */
